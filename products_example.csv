@@ -1,0 +1,14 @@
+title,price,price_value,rating,in_stock,url,image_url,parsed_at
+A Light in the Attic,£51.77,51.77,3,True,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg,2025-01-27 14:30:00
+Tipping the Velvet,£53.74,53.74,1,True,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,https://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg,2025-01-27 14:30:01
+Soumission,£50.10,50.10,1,True,https://books.toscrape.com/catalogue/soumission_998/index.html,https://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg,2025-01-27 14:30:02
+Sharp Objects,£47.82,47.82,4,True,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,https://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg,2025-01-27 14:30:03
+Sapiens: A Brief History of Humankind,£54.23,54.23,5,True,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,https://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg,2025-01-27 14:30:04
+The Requiem Red,£22.65,22.65,1,True,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html,https://books.toscrape.com/media/cache/23/f2/23f219b7ffa756a4f67b44e142a8b6e1.jpg,2025-01-27 14:30:05
+The Dirty Little Secrets of Getting Your Dream Job,£33.34,33.34,4,True,https://books.toscrape.com/catalogue/the-dirty-little-secrets_994/index.html,https://books.toscrape.com/media/cache/c4/7c/c47c8228cd19520a7c1e4e3a9e7e9c9c.jpg,2025-01-27 14:30:06
+The Coming Woman: A Novel Based on the Life of the Infamous Feminist,£17.93,17.93,3,True,https://books.toscrape.com/catalogue/the-coming-woman_993/index.html,https://books.toscrape.com/media/cache/29/0e/290ea7b97f7da1d1c4c7af32bc3e80f0.jpg,2025-01-27 14:30:07
+The Boys in the Boat,£22.60,22.60,4,True,https://books.toscrape.com/catalogue/the-boys-in-the-boat_992/index.html,https://books.toscrape.com/media/cache/3f/24/3f24f96c0b4e1b8d0d28e8e4ec2f0e7d.jpg,2025-01-27 14:30:08
+The Black Maria,£52.15,52.15,1,True,https://books.toscrape.com/catalogue/the-black-maria_991/index.html,https://books.toscrape.com/media/cache/1e/5c/1e5c3e7f8d7e99f6fe1e1ae8c8b80cc7.jpg,2025-01-27 14:30:09
+Starving Hearts,£13.99,13.99,2,True,https://books.toscrape.com/catalogue/starving-hearts_990/index.html,https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg,2025-01-27 14:30:10
+Shakespeares Sonnets,£20.66,20.66,4,True,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html,https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg,2025-01-27 14:30:11
+Set Me Free,£17.46,17.46,5,True,https://books.toscrape.com/catalogue/set-me-free_988/index.html,https://books.toscrape.com/media/cache/ce/b4/ceb45e9a6a6b4b1a1e5e8c2d9c4a3b01.jpg,2025-01-27 14:30:12
